@@ -1,0 +1,14 @@
+D:\Data\HocTap\Tai lieu\GitHub\QuanLyKho\DTO\bin\Debug\DTO.dll
+D:\Data\HocTap\Tai lieu\GitHub\QuanLyKho\DTO\bin\Debug\DTO.pdb
+D:\Data\HocTap\Tai lieu\GitHub\QuanLyKho\DTO\obj\Debug\DTO.dll
+D:\Data\HocTap\Tai lieu\GitHub\QuanLyKho\DTO\obj\Debug\DTO.pdb
+D:\Data\HocTap\Tai lieu\GitHub\QuanLyKho\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\DELL PC\Desktop\baitap_nhom\QuanLyKho\DTO\bin\Debug\DTO.dll
+C:\Users\DELL PC\Desktop\baitap_nhom\QuanLyKho\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL PC\Desktop\baitap_nhom\QuanLyKho\DTO\obj\Debug\DTO.dll
+C:\Users\DELL PC\Desktop\baitap_nhom\QuanLyKho\DTO\obj\Debug\DTO.pdb
+D:\C#\QuanLyKho\DTO\bin\Debug\DTO.dll
+D:\C#\QuanLyKho\DTO\bin\Debug\DTO.pdb
+D:\C#\QuanLyKho\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyKho\DTO\obj\Debug\DTO.dll
+D:\C#\QuanLyKho\DTO\obj\Debug\DTO.pdb
