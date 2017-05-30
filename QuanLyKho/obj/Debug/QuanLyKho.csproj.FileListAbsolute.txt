@@ -77,3 +77,6 @@ D:\C#\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
 C:\Users\Administrator\Desktop\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
 C:\Users\Administrator\Desktop\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\Huy\Documents\GitHub\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\Huy\Documents\GitHub\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\Huy\Documents\GitHub\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
